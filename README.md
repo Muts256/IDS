@@ -4,6 +4,7 @@
 
 - <b> Intrusion Detection System (Snort and Splunk installation)</b>
   - [Snort & Splunk Installation and Configuration](https://github.com/Muts256/IDS)
+  - [Brute-Force Attack on Active Directory](https://github.com/Muts256/)
 
 <h2> 🤳 Connect with me:</h2>
 
