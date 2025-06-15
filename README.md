@@ -8,7 +8,7 @@
   Objective:
     - To enhance the analyst's practical skills using an Intrusion Detection System.
     - Installation and configuration of Snort.
-    - Configuartion of detection rules
+    - Configuration of detection rules
     - Document findings see pdf above
 
 <h2> 🤳 Connect with me:</h2>
