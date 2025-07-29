@@ -5,12 +5,12 @@
 - <b> Intrusion Detection System (Snort and Splunk installation)</b>
   - [Snort & Splunk Installation and Configuration](https://github.com/Muts256/IDS)
 
-
+This project focuses on integrating Snort, an open-source Intrusion Detection and Prevention System (IDS/IPS), with Splunk, a Security Information and Event Management (SIEM) tool. The integration enables real-time monitoring, alert correlation, and threat detection by ingesting logs from the Snort server for analysis and visualisation
   Objective:
     - To enhance the analyst's practical skills using an Intrusion Detection System.
     - Installation and configuration of Snort.
     - Configuration of detection rules
-    - Document findings see pdf above
+    - Document findings, see pdf above
 
 <h2> 🤳 Connect with me:</h2>
 
